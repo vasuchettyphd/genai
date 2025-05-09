@@ -1,24 +1,23 @@
 # build output
-dist/
+llm-explainer/dist/
 # generated types
-.astro/
+llm-explainer/.astro/
 
 # dependencies
-node_modules/
+llm-explainer/node_modules/
 
 # logs
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-pnpm-debug.log*
-
+llm-explainer/npm-debug.log*
+llm-explainer/yarn-debug.log*
+llm-explainer/yarn-error.log*
+llm-explainer/pnpm-debug.log*
 
 # environment variables
-.env
-.env.production
+llm-explainer/.env
+llm-explainer/.env.production
 
 # macOS-specific files
 .DS_Store
 
 # jetbrains setting folder
-.idea/
+llm-explainer/.idea/
